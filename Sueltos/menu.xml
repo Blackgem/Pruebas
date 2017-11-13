@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<channels>
+    	<channels_info>
+		<title>[COLOR red][B]EL RINCON DEL LOLO[/B][/COLOR] [COLOR white]ADDON[/COLOR]</title>
+		<genre>IPTV</genre>
+		<description>Kodi Addon IPTV</description>
+		<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/icon.png?raw=true</thumbnail>
+		<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/fanart.jpg?raw=true</fanart>
+		<date>07.05.2017</date>
+		<credits>In memorial for Manuel</credits>
+    </channels_info>
 
-
+<!---
 <item>
 <title>[COLOR red]SPORT365 (addon deportes a la carta necesario)[/COLOR] [COLOR white](CLICAR AQUI)[/COLOR]</title>
 <link>ignorme</link>
@@ -16,7 +26,7 @@
 <fanart>https://i.imgur.com/TnVuyuB.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/motogp1.xml</externallink>
 </item>	
-
+--->
 	<channel>
 		<name>[COLOR white][B]+[/B][/COLOR] [COLOR dodgerblue]ZONA[/COLOR] [COLOR skyblue]INFANTIL[/COLOR]</name>
 		<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/KidsThumbnail.png?raw=true</thumbnail>
@@ -47,7 +57,7 @@
 			</item>
 		</items>
 	</channel>	
-		
+</channels>		
 		
 <!--- Items con submenus copaido de El Ricon de Lolo
 		

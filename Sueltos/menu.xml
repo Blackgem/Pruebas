@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<item>
+<title>[COLOR red]SPORT365 (addon deportes a la carta necesario)[/COLOR] [COLOR white](CLICAR AQUI)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogImRlcG9ydCIsIAogICAgImNoYW5uZWwiOiAic3BvcnQzNjUiLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6ICJlcyIsIAogICAgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vaEoydmhpcC5wbmciLCAKICAgICJ0aXRsZSI6ICJTcG9ydDM2NSIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
+<thumbnail>http://s1.medianetworkinternational.com/images/icons/apple-touch-icon-114x114.png</thumbnail>
+</item
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MUNDIAL [/COLOR][COLOR orange] MOTOGP [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/TnVuyuB.jpg</thumbnail>
+<fanart>https://i.imgur.com/TnVuyuB.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/motogp1.xml</externallink>
+</item>	
+
+	<channel>
+		<name>[COLOR white][B]+[/B][/COLOR] [COLOR dodgerblue]ZONA[/COLOR] [COLOR skyblue]INFANTIL[/COLOR]</name>
+		<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/KidsThumbnail.png?raw=true</thumbnail>
+		<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/KidsFanart.jpg?raw=true</fanart>
+		<items>
+			<item>
+				<title>[COLOR white][B]+[/B][/COLOR] [COLOR dodgerblue]ZONA[/COLOR] [COLOR skyblue]ANIME[/COLOR]</title>
+				<link>http://ignorame</link>
+				<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/AnimeThumbnail.png?raw=true</thumbnail>
+				<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/AnimeFanart.jpg?raw=true</fanart>
+				<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/Anime_Comics/MenuAnime.xml</externallink>
+			</item>
+	
+			<item>
+				<title>[COLOR white][B]+[/B][/COLOR] [COLOR dodgerblue]ZONA[/COLOR][COLOR skyblue] DIBUJOS ANIMADOS[/COLOR]</title>
+				<link>http://ignorame</link>
+				<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</thumbnail>
+				<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</fanart>
+				<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/DibujosAnimados/dibujos_animados.m3u</externallink>
+			</item>
+			
+			<item>
+				<title>[COLOR white][B]+[/B][/COLOR] [COLOR dodgerblue]ZONA[/COLOR][COLOR skyblue] DIBUJOS ANIMADOS[/COLOR] [COLOR grey]PACK 1[/COLOR]</title>
+				<link>http://ignorame</link>
+				<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</thumbnail>
+				<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</fanart>
+				<externallink>https://pastebin.com/raw/BHz0Aiwi</externallink>
+			</item>
+		</items>
+		
+		
+		
+<!--- Items con submenus copaido de El Ricon de Lolo
+		
+	</channel>
+	
+		<channel>
+		<name>[COLOR white][B]+[/B][/COLOR] [COLOR dodgerblue]ZONA[/COLOR] [COLOR skyblue]INFANTIL[/COLOR]</name>
+		<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/KidsThumbnail.png?raw=true</thumbnail>
+		<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/KidsFanart.jpg?raw=true</fanart>
+		<items>
+			<item>
+				<title>[COLOR white][B]+[/B][/COLOR] [COLOR dodgerblue]ZONA[/COLOR] [COLOR skyblue]ANIME[/COLOR]</title>
+				<link>http://ignorame</link>
+				<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/AnimeThumbnail.png?raw=true</thumbnail>
+				<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/AnimeFanart.jpg?raw=true</fanart>
+				<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/Anime_Comics/MenuAnime.xml</externallink>
+			</item>
+	
+			<item>
+				<title>[COLOR white][B]+[/B][/COLOR] [COLOR dodgerblue]ZONA[/COLOR][COLOR skyblue] DIBUJOS ANIMADOS[/COLOR]</title>
+				<link>http://ignorame</link>
+				<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</thumbnail>
+				<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</fanart>
+				<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/DibujosAnimados/dibujos_animados.m3u</externallink>
+			</item>
+			
+			<item>
+				<title>[COLOR white][B]+[/B][/COLOR] [COLOR dodgerblue]ZONA[/COLOR][COLOR skyblue] DIBUJOS ANIMADOS[/COLOR] [COLOR grey]PACK 1[/COLOR]</title>
+				<link>http://ignorame</link>
+				<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</thumbnail>
+				<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</fanart>
+				<externallink>https://pastebin.com/raw/BHz0Aiwi</externallink>
+			</item>
+		</items>
+	</channel>
+--->
+
+
+<!--------
+	
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MUNDIAL [/COLOR][COLOR orange] MOTOGP [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/TnVuyuB.jpg</thumbnail>
+<fanart>https://i.imgur.com/TnVuyuB.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/motogp1.xml</externallink>
+</item>	
+
+
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] ARENAVISION [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/J0zmr7e.jpg</thumbnail>
+<fanart>https://i.imgur.com/J0zmr7e.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CINE [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/UhIwDJr.jpg</thumbnail>
+<fanart>https://i.imgur.com/UhIwDJr.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/BASETAQUILLAJHG3.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] OCIO  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/dwusiIP.jpg</thumbnail>
+<fanart>http://i.imgur.com/dwusiIP.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASE22.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TDT [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/wQMzvl6.jpg</thumbnail>
+<fanart>https://i.imgur.com/wQMzvl6.jpg</fanart>
+<externallink>https://pastebin.com/raw/U7SXbEiN</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] AMIGOS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/QREhP0H.jpg</thumbnail>
+<fanart>https://i.imgur.com/QREhP0H.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/AMIGOSJHG2.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] FESTA [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/sffqiWB.jpg</thumbnail>
+<fanart>https://i.imgur.com/sffqiWB.jpg</fanart>
+<externallink>https://pastebin.com/raw/X2HzY2Jj</externallink>	
+</item> 
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] AEROBIC [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/qDODEGY.png</thumbnail>
+<fanart>https://i.imgur.com/qDODEGY.png</fanart>
+<externallink>https://raw.githubusercontent.com/Delhia/Aerobic/master/index.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/IN2sI5N.jpg</thumbnail>
+<fanart>https://i.imgur.com/IN2sI5N.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/camarasdelmundo.xml</externallink>	
+</item> 
+
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] RADIOS ESPAÑA [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/V4GfdHT.jpg</thumbnail>
+<fanart>https://i.imgur.com/V4GfdHT.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/radiosespa%C3%B1a.xml</externallink>	
+</item> 
+
+
+
+
+----------------------------------------------------
+
+			
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] JOKER  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/Jkr0r7o.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jkr0r7o.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/BASE.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PROGRAMAS TV [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/i6DjXNs.jpg</thumbnail>
+<fanart>https://i.imgur.com/i6DjXNs.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/PROGRAMASTV.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MONTSE TOP MUSIC [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/CPqK2No.jpg</thumbnail>
+<fanart>https://i.imgur.com/CPqK2No.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/ESPECIAL%20TOP%20GRUPOS%20MUSICALES.xml</externallink>	
+</item> 
+			
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] DEPORTES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/16JGL5F.jpg</thumbnail>
+<fanart>https://i.imgur.com/16JGL5F.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/BASEDEPORTESJHG2.xml</externallink>	
+</item> 
+		
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] FAMILIA JHG [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/proyectoJHGADryan.xml</externallink>	
+</item> 
+	
+	
+	
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] FAMILIA JHG2 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/baseretroordenado.xml</externallink>	
+</item> 
+		
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MOVISTAR [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/iVfvshN.jpg</thumbnail>
+<fanart>https://i.imgur.com/iVfvshN.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/larevancha.xml</externallink>	
+</item> 

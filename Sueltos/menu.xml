@@ -37,7 +37,7 @@
 				<link>http://ignorame</link>
 				<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/AnimeThumbnail.png?raw=true</thumbnail>
 				<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/AnimeFanart.jpg?raw=true</fanart>
-				<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/Anime_Comics/MenuAnime.xml</externallink>
+				<!---<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/Anime_Comics/MenuAnime.xml</externallink>--->
 			</item>
 	
 			<item>
@@ -45,7 +45,7 @@
 				<link>http://ignorame</link>
 				<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</thumbnail>
 				<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</fanart>
-				<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/DibujosAnimados/dibujos_animados.m3u</externallink>
+				<!---<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/DibujosAnimados/dibujos_animados.m3u</externallink>--->
 			</item>
 			
 			<item>
@@ -53,7 +53,7 @@
 				<link>http://ignorame</link>
 				<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</thumbnail>
 				<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</fanart>
-				<externallink>https://pastebin.com/raw/BHz0Aiwi</externallink>
+				<!---<externallink>https://pastebin.com/raw/BHz0Aiwi</externallink>--->
 			</item>
 		</items>
 	</channel>	

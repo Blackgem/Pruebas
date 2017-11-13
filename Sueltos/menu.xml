@@ -27,6 +27,7 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/motogp1.xml</externallink>
 </item>	
 --->
+<!--
 	<channel>
 		<name>[COLOR white][B]+[/B][/COLOR] [COLOR dodgerblue]ZONA[/COLOR] [COLOR skyblue]INFANTIL[/COLOR]</name>
 		<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/KidsThumbnail.png?raw=true</thumbnail>
@@ -37,7 +38,7 @@
 				<link>http://ignorame</link>
 				<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/AnimeThumbnail.png?raw=true</thumbnail>
 				<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/AnimeFanart.jpg?raw=true</fanart>
-				<!---<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/Anime_Comics/MenuAnime.xml</externallink>--->
+				<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/Anime_Comics/MenuAnime.xml</externallink>
 			</item>
 	
 			<item>
@@ -45,7 +46,7 @@
 				<link>http://ignorame</link>
 				<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</thumbnail>
 				<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</fanart>
-				<!---<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/DibujosAnimados/dibujos_animados.m3u</externallink>--->
+				<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/DibujosAnimados/dibujos_animados.m3u</externallink>
 			</item>
 			
 			<item>
@@ -53,20 +54,12 @@
 				<link>http://ignorame</link>
 				<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</thumbnail>
 				<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/CINE%20ANIMADO.jpg?raw=true</fanart>
-				<!---<externallink>https://pastebin.com/raw/BHz0Aiwi</externallink>--->
+				<externallink>https://pastebin.com/raw/BHz0Aiwi</externallink>
 			</item>
 		</items>
 	</channel>	
 </channels>	
-
-
-
-
-
-
-
-<!-- Items y canales en que se diferencian? -->
-
+--->
 <items>
     <items_info> <!-- this is opitonal -->
       <title>Testing XML</title> <!-- a title is required, other elements are optional -->
@@ -99,44 +92,16 @@
         <title>BBC World</title>         
         <link>rtmp://some/place playpath=bbcworld1_en_high.sdp swfUrl="http://some/place/player.swf" pageUrl="http://some/place/10-bbc-world-news-english" swfVfy=true live=true</link>
         <thumbnail>http://some/place.jpg</thumbnail>
-	</item>	
-	
-	<items>
-		<items_info> <!-- this is opitonal -->
-		  <title>Testing XML</title> <!-- a title is required, other elements are optional -->
-		  <genre>News</genre>
-		  <description>this is the descripton string</description>
-		  <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-		  <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-		  <date>04.01.2013</date>
-		  <credits>divingmule, Johnny Cache</credits>
-		</items_info>
-
-		<item>
-			<title>POKER CHANNEL</title>
-			<link>mms://some/place/pokerchannel</link>
-			<thumbnail>http://channel.png</thumbnail>
-			<genre>Poker</genre>
-			<info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
-			<date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
-			<epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-			<fanart>http://fanart.jpg</fanart>
-		</item>
-		
-		<item>
-			<title>NHK - World</title>         
-			<link>rtmp://some/place playpath=nhkworldhd swfUrl="http://player.0.3.6.2.swf" pageUrl="http://nhkworld/r/movie/" swfVfy=true live=true</link>
-			<thumbnail>http://header_logo.gif</thumbnail>
-		</item>
-		
-		<item>
-			<title>BBC World</title>         
-			<link>rtmp://some/place playpath=bbcworld1_en_high.sdp swfUrl="http://some/place/player.swf" pageUrl="http://some/place/10-bbc-world-news-english" swfVfy=true live=true</link>
-			<thumbnail>http://some/place.jpg</thumbnail>
-		
-	</items>
 	
 </items>
+
+
+
+
+
+<!-- Items y canales en que se diferencian? -->
+
+
 		
 <!--- Items con submenus copaido de El Ricon de Lolo
 		
